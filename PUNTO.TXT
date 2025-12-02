@@ -1,0 +1,4 @@
+Ahora vamos con este punto 4.3.17.2 Interfaz de Crear Rutina Personalizada
+
+Mira este es mi codigo de la Interfaz de Crear Rutina Personalizada, el archivo se llama routine.php y el de routine-handler.php que hace la consulta , quiero que describas como se hizo todo esto para este punto 4.3.17.2 Interfaz de Crear Rutina Personalizada.
+

@@ -1,0 +1,59 @@
+h1 {
+  font-size: 18pt;
+  text-align: left;
+  margin: 0;
+  padding-top: 0;
+}
+h2,
+h3,
+h4 {
+  font-size: 10pt;
+  margin: 0;
+}
+h5 {
+  font-size: 8pt;
+  font-weight: bold;
+  margin: 0;
+}
+h6 {
+  font-size: 10pt;
+  font-weight: normal;
+  text-align: right;
+  margin: 0;
+}
+p,
+li {
+  font-size: 10pt;
+  margin: 0; /* Eliminamos el margen */
+  padding: 0; /* Eliminamos el padding adicional */
+  line-height: 1; /* Reducimos el interlineado */
+}
+ul {
+  padding-left: 20px;
+}
+.bold {
+  font-weight: bold;
+}
+.small-spacing {
+  margin-bottom: 50px;
+}
+.header-container {
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.header-left {
+  margin-top: -50px; /* Ajusta este valor según sea necesario */
+}
+.exercise-list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+.exercise-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+.exercise-list li::before {
+  content: "•"; /* Punto de viñeta */
+  padding-right: 5px;
+}
