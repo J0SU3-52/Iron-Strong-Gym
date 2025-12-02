@@ -1,6 +1,3 @@
-Va, tilin 🔥
-Te voy a entregar una versión **pro, llamativa, completa y con estilo gym**.
-Lista para copiar/pegar directo a tu `README.md`.
 
 ---
 
